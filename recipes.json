@@ -1,0 +1,94 @@
+{
+  "recipes": [
+    {
+      "name": "Bakonyi sertésborda",
+      "description": "Nagyon finom Bakonyi sertésborda",
+      "imagePath": "/assets/images/bakony-pork-ribs.svg",
+      "id": 1
+    },
+    {
+      "name": "Brassoi aprópecsenye",
+      "description": "A legfinomabb Brassoi aprópecsenye",
+      "imagePath": "/assets/images/brasso-tiny-roast.svg",
+      "id": 2
+    },
+    {
+      "name": "Csirkepaprikás gombával",
+      "description": "Házi csirkéből készült csirkepaprikás gombával",
+      "imagePath": "/assets/images/chicken-pepper-with-mushrooms.svg",
+      "id": 3
+    },
+    {
+      "name": "Fokhagymás sült karaj",
+      "description": "Ízletes fokhagymás sült karaj",
+      "imagePath": "/assets/images/garlic-roast-chop.svg",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "title": "Csirkepaprikás gombával",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "imagePath": "/assets/images/chicken-pepper-with-mushrooms.svg",
+      "url": "/assets/images/chicken-pepper-with-mushrooms.svg",
+      "userMessage": "Crab Repellat",
+      "id": 1
+    },
+    {
+      "title": "Fokhagymás sült karaj",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+      "imagePath": "/assets/images/garlic-roast-chop.svg",
+      "url": "/assets/images/garlic-roast-chop.svg",
+      "userMessage": "Hali Quiest",
+      "id": 2
+    },
+    {
+      "title": "Rakott tészta",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "imagePath": "/assets/images/casserole-pasta.svg",
+      "url": "/assets/images/casserole-pasta.svg",
+      "userMessage": "Molestias Lobster",
+      "id": 3
+    },
+    {
+      "title": "Savanyú kaposztás sült tarja",
+      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+      "imagePath": "/assets/images/roasted-sauerkraut-with-ribs.svg",
+      "url": "/assets/images/roasted-sauerkraut-with-ribs.svg",
+      "userMessage": "Mahi Reumet",
+      "id": 4
+    },
+    {
+      "title": "Sertéspörkölt",
+      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+      "imagePath": "/assets/images/pork-stew.svg",
+      "url": "/assets/images/pork-stew.svg",
+      "userMessage": "Nesciunt Mussels",
+      "id": 5
+    },
+    {
+      "title": "Bakonyi sertésborda",
+      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+      "imagePath": "/assets/images/bakony-pork-ribs.svg",
+      "url": "/assets/images/bakony-pork-ribs.svg",
+      "userMessage": "Facilis Prawns",
+      "id": 6
+    },
+    {
+      "title": "Brassoi aprópecsenye",
+      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+      "imagePath": "/assets/images/brasso-tiny-roast.svg",
+      "url": "/assets/images/brasso-tiny-roast.svg",
+      "userMessage": "Ipsam Salmon",
+      "id": 7
+    },
+    {
+      "title": "Cigánypecsenye",
+      "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+      "imagePath": "/assets/images/gypsteak-roast.svg",
+      "url": "/assets/images/gypsteak-roast.svg",
+      "userMessage": "Scallops Accusantium",
+      "id": 8
+    }
+  ]
+}
