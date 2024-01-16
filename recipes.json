@@ -2,25 +2,25 @@
   "recipes": [
     {
       "name": "Bakonyi sertésborda",
-      "description": "Nagyon finom Bakonyi sertésborda",
+      "description": "A karajt vékony szeletekre vágjuk, kiklopfoljuk, majd ételízesitôvel elkevert lisztbe forgatjúk és forró olajban mindkét oldalát pirosra sütjük. Ha megsült, akkor kíszedjük egy lábosba. A visszamaradt olajban apró kockákra vágott füstölt szalonnát megpirítjuk, utána megdinszteljük az apróra vágott hagymát. Beletesszük a megtisztított és felszeletelt gombát. Sóval, borssal fûszerezzük és készre pároljuk. A tejszínt és a tejfölt elkeverjük a mustárral, citromlével, sóval és borssal, majd a gombára öntjük és összeforraljuk. Tálaláskor a mártást a sült húsra öntjük. Párolt rizzsel tálaljuk.",
       "imagePath": "/assets/images/bakony-pork-ribs.svg",
       "id": 1
     },
     {
       "name": "Brassoi aprópecsenye",
-      "description": "A legfinomabb Brassoi aprópecsenye",
+      "description": "A húst és a burgonyát 1 x 1 cm-es kockára felvágjuk. A kis kockákra vágott zsírszalonnát addig pirítjuk még zsírt nem enged ki magából, aztán apró kockákra vágott füstölt szalonnával együtt megpirítjuk. Kockára vágott húst hozzáadjuk és hirtelen megpirítjuk, majd sózzuk, borsozzuk és hozzáadjuk a aprított fokhagymát, meg a ôrölt pirospaprikát is. Keverjük össze, majd öntsük fel kb. 2 dl vízzel és lefedve pároljuk puhára a húst. Közben bô, forró olajban süssük enyhén pirosra a burgonyakockákat, aztán szedjük ki szalvétára. Tálaláskor a megsült kész hús mellé helyezzük el a sült burgonyakockákat, aztán ízlés szerint csemege uborkával díszítsük.",
       "imagePath": "/assets/images/brasso-tiny-roast.svg",
       "id": 2
     },
     {
       "name": "Csirkepaprikás gombával",
-      "description": "Házi csirkéből készült csirkepaprikás gombával",
+      "description": "A fél csirkét megtisztítjuk és feldaraboljuk. A paprikát és a paradicsomot felkockázzuk, a hagymát apróra vágjuk. A gombákat megtisztítjuk és alaposan megmossuk, aztán felszeleteljük. Az zsíron megdinszteljük a hagymát, hozzáadjuk a fokhagymát, aztán lehuzzuk a tûzhelyrôl, utána ôrölt borsot és ôrölt pirospaprikát hozzáadjuk elkeverjük és vissza a tûzhelyre. A pörkölthôz hozzáadjuk a kockázot paprikát, paradicsomot és a szeletelt gombát, pár percig együtt pároljuk, utána a feldarabolt csirkét hozzáadjuk. Folyamatos párolással készre pároljuk a darabólt csirkét és az alapanyagot, közben elpárolodott levet potoljúk vízzel. A lisztet keverjük simára a tejföllel, majd habarjuk be vele a puhára párolt csirkét. Habverôvel állandóan kevergetve lassan összeforraljuk. Közben megkóstoljuk, ha szükséges, sóval utánízesítjük, közben egy kevés tejszínt öntünk hozzá és lassan készre forraljuk. Galuskával tálaljuk.",
       "imagePath": "/assets/images/chicken-pepper-with-mushrooms.svg",
       "id": 3
     },
     {
       "name": "Fokhagymás sült karaj",
-      "description": "Ízletes fokhagymás sült karaj",
+      "description": "Kicsit klopfold ki a karajszeleteket és a szélén a hártyákat vagdosd be, hogy ne ugorjon össze sütés közben. Az olajat, a reszelt fokhagymát, a sót és az ôrölt borsot keverjük össze és alaposan kenjük be vele a karajszeleteket. Legalább egy jó 10 percig pihentessük, utána egy serpenyôben hevítsünk kevés olajat és néhány perc alatt süssük meg a karajszeleteket mindkét oldalát. Tepsis burgonyával tálaljuk.",
       "imagePath": "/assets/images/garlic-roast-chop.svg",
       "id": 4
     }
