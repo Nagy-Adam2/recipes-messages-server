@@ -2,25 +2,25 @@
   "recipes": [
     {
       "name": "Bakonyi sertésborda",
-      "description": "A karajt vékony szeletekre vágjuk, kiklopfoljuk, majd ételízesitôvel elkevert lisztbe forgatjúk és forró olajban mindkét oldalát pirosra sütjük. Ha megsült, akkor kíszedjük egy lábosba. A visszamaradt olajban apró kockákra vágott füstölt szalonnát megpirítjuk, utána megdinszteljük az apróra vágott hagymát. Beletesszük a megtisztított és felszeletelt gombát. Sóval, borssal fûszerezzük és készre pároljuk. A tejszínt és a tejfölt elkeverjük a mustárral, citromlével, sóval és borssal, majd a gombára öntjük és összeforraljuk. Tálaláskor a mártást a sült húsra öntjük. Párolt rizzsel tálaljuk.",
+      "description": "A karajt vékony szeletekre vágjuk, kiklopfoljuk, majd ételízesitővel elkevert lisztbe forgatjúk és forró olajban mindkét oldalát pirosra sütjük. Ha megsült, akkor kíszedjük egy lábosba. A visszamaradt olajban apró kockákra vágott füstölt szalonnát megpirítjuk, utána megdinszteljük az apróra vágott hagymát. Beletesszük a megtisztított és felszeletelt gombát. Sóval, borssal fűszerezzük és készre pároljuk. A tejszínt és a tejfölt elkeverjük a mustárral, citromlével, sóval és borssal, majd a gombára öntjük és összeforraljuk. Tálaláskor a mártást a sült húsra öntjük. Párolt rizzsel tálaljuk.",
       "imagePath": "/assets/images/bakony-pork-ribs.svg",
       "id": 1
     },
     {
       "name": "Brassoi aprópecsenye",
-      "description": "A húst és a burgonyát 1 x 1 cm-es kockára felvágjuk. A kis kockákra vágott zsírszalonnát addig pirítjuk még zsírt nem enged ki magából, aztán apró kockákra vágott füstölt szalonnával együtt megpirítjuk. Kockára vágott húst hozzáadjuk és hirtelen megpirítjuk, majd sózzuk, borsozzuk és hozzáadjuk a aprított fokhagymát, meg a ôrölt pirospaprikát is. Keverjük össze, majd öntsük fel kb. 2 dl vízzel és lefedve pároljuk puhára a húst. Közben bô, forró olajban süssük enyhén pirosra a burgonyakockákat, aztán szedjük ki szalvétára. Tálaláskor a megsült kész hús mellé helyezzük el a sült burgonyakockákat, aztán ízlés szerint csemege uborkával díszítsük.",
+      "description": "A húst és a burgonyát 1 x 1 cm-es kockára felvágjuk. A kis kockákra vágott zsírszalonnát addig pirítjuk még zsírt nem enged ki magából, aztán apró kockákra vágott füstölt szalonnával együtt megpirítjuk. Kockára vágott húst hozzáadjuk és hirtelen megpirítjuk, majd sózzuk, borsozzuk és hozzáadjuk a aprított fokhagymát, meg a őrölt pirospaprikát is. Keverjük össze, majd öntsük fel kb. 2 dl vízzel és lefedve pároljuk puhára a húst. Közben bő, forró olajban süssük enyhén pirosra a burgonyakockákat, aztán szedjük ki szalvétára. Tálaláskor a megsült kész hús mellé helyezzük el a sült burgonyakockákat, aztán ízlés szerint csemege uborkával díszítsük.",
       "imagePath": "/assets/images/brasso-tiny-roast.svg",
       "id": 2
     },
     {
       "name": "Csirkepaprikás gombával",
-      "description": "A fél csirkét megtisztítjuk és feldaraboljuk. A paprikát és a paradicsomot felkockázzuk, a hagymát apróra vágjuk. A gombákat megtisztítjuk és alaposan megmossuk, aztán felszeleteljük. Az zsíron megdinszteljük a hagymát, hozzáadjuk a fokhagymát, aztán lehuzzuk a tûzhelyrôl, utána ôrölt borsot és ôrölt pirospaprikát hozzáadjuk elkeverjük és vissza a tûzhelyre. A pörkölthôz hozzáadjuk a kockázot paprikát, paradicsomot és a szeletelt gombát, pár percig együtt pároljuk, utána a feldarabolt csirkét hozzáadjuk. Folyamatos párolással készre pároljuk a darabólt csirkét és az alapanyagot, közben elpárolodott levet potoljúk vízzel. A lisztet keverjük simára a tejföllel, majd habarjuk be vele a puhára párolt csirkét. Habverôvel állandóan kevergetve lassan összeforraljuk. Közben megkóstoljuk, ha szükséges, sóval utánízesítjük, közben egy kevés tejszínt öntünk hozzá és lassan készre forraljuk. Galuskával tálaljuk.",
+      "description": "A fél csirkét megtisztítjuk és feldaraboljuk. A paprikát és a paradicsomot felkockázzuk, a hagymát apróra vágjuk. A gombákat megtisztítjuk és alaposan megmossuk, aztán felszeleteljük. Az zsíron megdinszteljük a hagymát, hozzáadjuk a fokhagymát, aztán lehuzzuk a tűzhelyről, utána őrölt borsot és őrölt pirospaprikát hozzáadjuk elkeverjük és vissza a tűzhelyre. A pörkölthőz hozzáadjuk a kockázot paprikát, paradicsomot és a szeletelt gombát, pár percig együtt pároljuk, utána a feldarabolt csirkét hozzáadjuk. Folyamatos párolással készre pároljuk a darabólt csirkét és az alapanyagot, közben elpárolodott levet potoljúk vízzel. A lisztet keverjük simára a tejföllel, majd habarjuk be vele a puhára párolt csirkét. Habverővel állandóan kevergetve lassan összeforraljuk. Közben megkóstoljuk, ha szükséges, sóval utánízesítjük, közben egy kevés tejszínt öntünk hozzá és lassan készre forraljuk. Galuskával tálaljuk.",
       "imagePath": "/assets/images/chicken-pepper-with-mushrooms.svg",
       "id": 3
     },
     {
       "name": "Fokhagymás sült karaj",
-      "description": "Kicsit klopfold ki a karajszeleteket és a szélén a hártyákat vagdosd be, hogy ne ugorjon össze sütés közben. Az olajat, a reszelt fokhagymát, a sót és az ôrölt borsot keverjük össze és alaposan kenjük be vele a karajszeleteket. Legalább egy jó 10 percig pihentessük, utána egy serpenyôben hevítsünk kevés olajat és néhány perc alatt süssük meg a karajszeleteket mindkét oldalát. Tepsis burgonyával tálaljuk.",
+      "description": "Kicsit klopfold ki a karajszeleteket és a szélén a hártyákat vagdosd be, hogy ne ugorjon össze sütés közben. Az olajat, a reszelt fokhagymát, a sót és az őrölt borsot keverjük össze és alaposan kenjük be vele a karajszeleteket. Legalább egy jó 10 percig pihentessük, utána egy serpenyőben hevítsünk kevés olajat és néhány perc alatt süssük meg a karajszeleteket mindkét oldalát. Tepsis burgonyával tálaljuk.",
       "imagePath": "/assets/images/garlic-roast-chop.svg",
       "id": 4
     }
@@ -28,66 +28,66 @@
   "posts": [
     {
       "title": "Csirkepaprikás gombával",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. A fél csirkét megtisztítjuk és feldaraboljuk. A paprikát és a paradicsomot felkockázzuk, a hagymát apróra vágjuk. A gombákat megtisztítjuk és alaposan megmossuk, aztán felszeleteljük. Az zsíron megdinszteljük a hagymát, hozzáadjuk a fokhagymát, aztán lehuzzuk a tűzhelyről, utána őrölt borsot és őrölt pirospaprikát hozzáadjuk elkeverjük és vissza a tűzhelyre. A pörkölthőz hozzáadjuk a kockázot paprikát, paradicsomot és a szeletelt gombát, pár percig együtt pároljuk, utána a feldarabolt csirkét hozzáadjuk. Folyamatos párolással készre pároljuk a darabólt csirkét és az alapanyagot, közben elpárolodott levet potoljúk vízzel. A lisztet keverjük simára a tejföllel, majd habarjuk be vele a puhára párolt csirkét. Habverővel állandóan kevergetve lassan összeforraljuk. Közben megkóstoljuk, ha szükséges, sóval utánízesítjük, közben egy kevés tejszínt öntünk hozzá és lassan készre forraljuk. Galuskával tálaljuk.",
       "imagePath": "/assets/images/chicken-pepper-with-mushrooms.svg",
       "url": "/assets/images/chicken-pepper-with-mushrooms.svg",
-      "userMessage": "Crab Repellat",
+      "userMessage": "Nagy Ádám",
       "id": 1
     },
     {
       "title": "Fokhagymás sült karaj",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+      "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. Kicsit klopfold ki a karajszeleteket és a szélén a hártyákat vagdosd be, hogy ne ugorjon össze sütés közben. Az olajat, a reszelt fokhagymát, a sót és az őrölt borsot keverjük össze és alaposan kenjük be vele a karajszeleteket. Legalább egy jó 10 percig pihentessük, utána egy serpenyőben hevítsünk kevés olajat és néhány perc alatt süssük meg a karajszeleteket mindkét oldalát. Tepsis burgonyával tálaljuk.",
       "imagePath": "/assets/images/garlic-roast-chop.svg",
       "url": "/assets/images/garlic-roast-chop.svg",
-      "userMessage": "Hali Quiest",
+      "userMessage": "Nagy Ádám",
       "id": 2
     },
     {
       "title": "Rakott tészta",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "body": "Írom, hogyan kell elkészíteni. Párizsit összevágjuk 1-1 cm kockákra. Egy kis fej hagymát apróra összevágjuk és olajon megdinszteljük, majd hozzáadjuk a kockákra vágott párizsikat. Kocka tésztát enyhén sós, néhány csep olaj hozzáadásával kifőzük, aztán leszürjük. Pirított párizsi kockákat összekeverni a kifőtt tésztával, aztán tepsit kikenjük olajal és belerakjuk a keveréket. 3 db tojást felütni és felverni alaposan. Kikevert tojáshoz őrölt borsót, delikádot, tejfölt adunk hozzá. Kikevert fűszeres tojást rá a tepsiben lévő keverékre és sajtot reszerni a tetejére, aztán sütőbe berakni és kb 1 óra alatt készre sütni.",
       "imagePath": "/assets/images/casserole-pasta.svg",
       "url": "/assets/images/casserole-pasta.svg",
-      "userMessage": "Molestias Lobster",
+      "userMessage": "Nagy Ádám",
       "id": 3
     },
     {
       "title": "Savanyú kaposztás sült tarja",
-      "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+      "body": "Írom, hogyan kell elkészíteni. Tarjaszeleteket előző nap befűszerezzük sóval, borsal, resszelt fokhagymával és apróra vágott vöröshagymával. Savanyú káposztát 2-szer kimossuk, aztán összevágjuk, utána tepsit bezsírozzuk. A káposztát belerkjuk a tepibe, aztán ráigazítani a tarja szeleteket és foliát a tetejére rakjuk. Sütés közben a káposztát néha megforgatni, meg ha a szeletek egyik fele megsült akkor átfordítani. Végül a sült tarja szeleteket tálra helyezzük, aztán káposztát tovább sütjük a sütőben folia nélkül, utána tálaljuk a hús mellé.",
       "imagePath": "/assets/images/roasted-sauerkraut-with-ribs.svg",
       "url": "/assets/images/roasted-sauerkraut-with-ribs.svg",
-      "userMessage": "Mahi Reumet",
+      "userMessage": "Nagy Ádám",
       "id": 4
     },
     {
       "title": "Sertéspörkölt",
-      "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+      "body": "Írom, hogyan kell elkészíteni. Kevés zsiradékban megdinszteljük az apróra összevágott hagymát és beletesszük a kockára vágott húst. Megsózzuk, hozzáadjuk a fokhagymát és saját levében pörköljük. Mikor zsírjára sült, hintsük meg paprikával és öntsük fel kevés vízzel addig még ép hogy elepje a húst. Gyakran kevergessük, és időként a fedő alatt elpárolodott vizet pótoljuk. Ha a sertéspörkölt felszínén vastagon áll a paprikaszín, akkor lemerjük, mert az étvágyrontó. Amikor a hús puhulni kezd, tegyük bele feldarabolt zöldpaprikát is. Lassú tűzön pároljuk készre. Fedővel lefedve tartjuk melegen tálalásig, aztán főtt-sült burgonyával tálaljuk.",
       "imagePath": "/assets/images/pork-stew.svg",
       "url": "/assets/images/pork-stew.svg",
-      "userMessage": "Nesciunt Mussels",
+      "userMessage": "Nagy Ádám",
       "id": 5
     },
     {
       "title": "Bakonyi sertésborda",
-      "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
+      "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. A karajt vékony szeletekre vágjuk, kiklopfoljuk, majd ételízesitővel elkevert lisztbe forgatjúk és forró olajban mindkét oldalát pirosra sütjük. Ha megsült, akkor kíszedjük egy lábosba. A visszamaradt olajban apró kockákra vágott füstölt szalonnát megpirítjuk, utána megdinszteljük az apróra vágott hagymát. Beletesszük a megtisztított és felszeletelt gombát. Sóval, borssal fűszerezzük és készre pároljuk. A tejszínt és a tejfölt elkeverjük a mustárral, citromlével, sóval és borssal, majd a gombára öntjük és összeforraljuk. Tálaláskor a mártást a sült húsra öntjük. Párolt rizzsel tálaljuk.",
       "imagePath": "/assets/images/bakony-pork-ribs.svg",
       "url": "/assets/images/bakony-pork-ribs.svg",
-      "userMessage": "Facilis Prawns",
+      "userMessage": "Nagy Ádám",
       "id": 6
     },
     {
       "title": "Brassoi aprópecsenye",
-      "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
+      "body": "Írom, hogyan kell elkészíteni, meg az ételek receptkönyv résszében is megtalálható. A húst és a burgonyát 1 x 1 cm-es kockára felvágjuk. A kis kockákra vágott zsírszalonnát addig pirítjuk még zsírt nem enged ki magából, aztán apró kockákra vágott füstölt szalonnával együtt megpirítjuk. Kockára vágott húst hozzáadjuk és hirtelen megpirítjuk, majd sózzuk, borsozzuk és hozzáadjuk a aprított fokhagymát, meg a őrölt pirospaprikát is. Keverjük össze, majd öntsük fel kb. 2 dl vízzel és lefedve pároljuk puhára a húst. Közben bő, forró olajban süssük enyhén pirosra a burgonyakockákat, aztán szedjük ki szalvétára. Tálaláskor a megsült kész hús mellé helyezzük el a sült burgonyakockákat, aztán ízlés szerint csemege uborkával díszítsük.",
       "imagePath": "/assets/images/brasso-tiny-roast.svg",
       "url": "/assets/images/brasso-tiny-roast.svg",
-      "userMessage": "Ipsam Salmon",
+      "userMessage": "Nagy Ádám",
       "id": 7
     },
     {
       "title": "Cigánypecsenye",
-      "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
+      "body": "Írom, hogyan kell elkészíteni. A tarjaszeleteket kiklopfoljuk, az inakat meg széleit néhány helyen bevagdossuk, utána megsózzuk és olajban áztatót apróra vágott fokhagymátban megforgassuk. Úgy 10 percig állva hagyjuk a tarjaszeleteket, aztán a őrölt borssal meg a pirospaprikával fűszerezett lisztbe forgatjuk. A füstölt szalonnából 4-5 szeletet vágunk és 3-4 helyen bevágjuk. Egy serpenyőben kisütjük a szalonnaszeleteket, majd félretesszük. A visszamaradt zsiradékban szép pirosra sütjük a tarjaszeleteket. A sült szalonnaszeletek tetejét őrölt pirospaprikába mártjuk és a kisült tarjára tesszük, aztán mellé köretként petrezselymes burgonyával tálaljuk.",
       "imagePath": "/assets/images/gypsteak-roast.svg",
       "url": "/assets/images/gypsteak-roast.svg",
-      "userMessage": "Scallops Accusantium",
+      "userMessage": "Nagy Ádám",
       "id": 8
     }
   ]
