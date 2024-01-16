@@ -90,7 +90,7 @@
       "userMessage": "Nagy Ádám",
       "id": 8
     }
-  ]
+  ],
   "recipes_en": [
     {
       "name": "Bakony pork ribs",
@@ -182,7 +182,7 @@
       "userMessage": "Adam Nagy",
       "id": 8
     }
-  ]
+  ],
   "recipes_de": [
     {
       "name": "Bakony-Schweinerippchen",
@@ -244,8 +244,7 @@
     },
     {
       "title": "Eintopf mit Schweinefleisch",
-      "body": "Ich schreibe, wie man es macht. Wir braten die gehackte Zwiebel in etwas Fett an und fügen das gewürfelte Fleisch hinzu. Salz und Knoblauch hinzufügen und im eigenen Saft anbraten. Nach dem Frittieren mit Paprika bestreuen und mit etwas Wasser aufgießen, bis das Fleisch vollständig bedeckt ist. Dabei häufig umrühren und gelegentlich das verdunstete Wasser unter den Deckel streuen. Wenn die Pfefferfarbe auf der Oberfläche des Schweineeintopfs dick ist, beschweren wir ihn, weil er appetitlich ist. Wenn das Fleisch weicher wird, fügen wir auch gehackte grüne Paprika hinzu. Bei schwacher Hitze köcheln lassen, bis es gar ist. Bis zum Servieren abdecken und warm halten, dann mit Salzkartoffeln servieren.
-",
+      "body": "Ich schreibe, wie man es macht. Wir braten die gehackte Zwiebel in etwas Fett an und fügen das gewürfelte Fleisch hinzu. Salz und Knoblauch hinzufügen und im eigenen Saft anbraten. Nach dem Frittieren mit Paprika bestreuen und mit etwas Wasser aufgießen, bis das Fleisch vollständig bedeckt ist. Dabei häufig umrühren und gelegentlich das verdunstete Wasser unter den Deckel streuen. Wenn die Pfefferfarbe auf der Oberfläche des Schweineeintopfs dick ist, beschweren wir ihn, weil er appetitlich ist. Wenn das Fleisch weicher wird, fügen wir auch gehackte grüne Paprika hinzu. Bei schwacher Hitze köcheln lassen, bis es gar ist. Bis zum Servieren abdecken und warm halten, dann mit Salzkartoffeln servieren.",
       "imagePath": "../assets/images/pork-stew.svg",
       "url": "../assets/images/pork-stew.svg",
       "userMessage": "Adam Nagy",
