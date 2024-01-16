@@ -91,4 +91,189 @@
       "id": 8
     }
   ]
+  "recipes_en": [
+    {
+      "name": "Bakony pork ribs",
+      "description": "Cut the pork chop into thin slices, chop, turn into flour mixed with seasoning and fry both sides in hot oil until red. Once baked, let's get it out in a pot. In the remaining oil we roast the smoked bacon cut into small cubes, then drizzle the chopped onion. Add the cleaned and sliced mushrooms. Season with salt and pepper and simmer. Mix the cream and sour cream with mustard, lemon juice, salt and pepper, then pour over the mushrooms and bring to a boil. At serving, the sauce is poured over the roast meat. Serve with steamed rice.",
+      "imagePath": "../assets/images/bakony-pork-ribs.svg",
+      "id": 1
+    },
+    {
+      "name": "Brasso tiny roast",
+      "description": "Cut the meat and potatoes into 1 x 1 cm cubes. The fat bacon cut into small cubes is toasted until it loses fat, and then roasted together with the smoked bacon cut into small cubes. Add the diced meat and roast all at once, then salt, pepper and add the chopped garlic and ground red pepper. Stir and then pour over approx. Season the meat with 2 dl water and cover until soft. Meanwhile, fry the potato cubes lightly red in a generous amount of hot oil and place on a napkin. When serving, place the roasted potato cubes next to the roasted ready-made meat, then garnish with a delicious cucumber.",
+      "imagePath": "../assets/images/brasso-tiny-roast.svg",
+      "id": 2
+    },
+    {
+      "name": "Chicken pepper with mushrooms",
+      "description": "Half the chicken is cleaned and minced. Dice the peppers and tomatoes and chop the onion. The mushrooms are cleaned and thoroughly washed and then sliced. On the fat, drizzle the onion, add the garlic, then peel it off the stove, then add the ground pepper and ground red pepper, stir and return to the stove. Add the risky peppers, tomatoes and sliced mushrooms to the stew, cook for a few minutes, then add the chopped chicken. Steam the carcasses and the raw material to the steamed steam, replacing the evaporated juice with water. Stir the flour until smooth with the sour cream, then cover with the soft steamed chicken. Bring to a boil, stirring constantly, slowly. Meanwhile, taste if necessary, season with salt and add a little cream and bring to a boil. Serve with dumplings.",
+      "imagePath": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "id": 3
+    },
+    {
+      "name": "Garlic roast chop",
+      "description": "Slightly chop the loin slices and cut the edges on the edges to prevent them from skewing while frying. Stir in oil, grated garlic, salt and ground pepper and thoroughly lubricate the pork chops. Let it rest for at least a good 10 minutes, then heat a little oil in a frying pan and fry both sides of the loin slices for a few minutes. Serve with baking potatoes.",
+      "imagePath": "../assets/images/garlic-roast-chop.svg",
+      "id": 4
+    }
+  ],
+  "posts_en": [
+    {
+      "title": "Chicken pepper with mushrooms",
+      "body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Half the chicken is cleaned and minced. Dice the peppers and tomatoes and chop the onion. The mushrooms are cleaned and thoroughly washed and then sliced. On the fat, drizzle the onion, add the garlic, then peel it off the stove, then add the ground pepper and ground red pepper, stir and return to the stove. Add the risky peppers, tomatoes and sliced mushrooms to the stew, cook for a few minutes, then add the chopped chicken. Steam the carcasses and the raw material to the steamed steam, replacing the evaporated juice with water. Stir the flour until smooth with the sour cream, then cover with the soft steamed chicken. Bring to a boil, stirring constantly, slowly. Meanwhile, taste if necessary, season with salt and add a little cream and bring to a boil. Serve with dumplings.",
+      "imagePath": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "url": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "userMessage": "Adam Nagy",
+      "id": 1
+    },
+    {
+      "title": "Garlic roast chop",
+      "body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Slightly chop the loin slices and cut the edges on the edges to prevent them from skewing while frying. Stir in oil, grated garlic, salt and ground pepper and thoroughly lubricate the pork chops. Let it rest for at least a good 10 minutes, then heat a little oil in a frying pan and fry both sides of the loin slices for a few minutes. Serve with baking potatoes.",
+      "imagePath": "../assets/images/garlic-roast-chop.svg",
+      "url": "../assets/images/garlic-roast-chop.svg",
+      "userMessage": "Adam Nagy",
+      "id": 2
+    },
+    {
+      "title": "Casserole pasta",
+      "body": "I write how to make it. Cut Paris into 1 cm cubes. Slightly chop a little onion and drizzle with oil, then add the paris cut into cubes. Cube dough is lightly salted, adding a few drops of oil and then filtered. Mix the toasted Paris cubes with the cooked dough, then brush the baking oil with oil and add the mixture. Beat 3 eggs and beat thoroughly. Ground peas, delicacy and sour cream are added to the mixed eggs. Mix the spicy egg onto the mixture in the pan and place the cheese on top, then put in the oven and bake for about 1 hour.",
+      "imagePath": "../assets/images/casserole-pasta.svg",
+      "url": "../assets/images/casserole-pasta.svg",
+      "userMessage": "Adam Nagy",
+      "id": 3
+    },
+    {
+      "title": "Roasted sauerkraut with ribs",
+      "body": "I write how to make it. Spice ribs the previous day with salt, pepper, grated garlic and chopped onion. Sauerkraut is washed twice, then chopped, then greased on a baking sheet. Put the cabbage in the baking tray, then adjust the ribs and place the foil on top. While frying, the cabbage is sometimes rotated, and if one half of the slices are cooked, turn over. Finally, place the roasted ribs on a plate, then fry the cabbage in the oven without foil, then serve with the meat.",
+      "imagePath": "../assets/images/roasted-sauerkraut-with-ribs.svg",
+      "url": "../assets/images/roasted-sauerkraut-with-ribs.svg",
+      "userMessage": "Adam Nagy",
+      "id": 4
+    },
+    {
+      "title": "Pork stew",
+      "body": "I write how to make it. We fry the chopped onion in a little fat and add the diced meat. Add salt and garlic and fry in its own juice. When fried, sprinkle with paprika and pour in a little water until intact to cover the meat. Stir frequently and occasionally sprinkle the water that has evaporated under the lid. If the pepper color is thick on the surface of the pork stew, we weigh it down because it is appetizing. When the meat starts to soften, let us also add chopped green peppers. Simmer until done over low heat. Cover and keep warm until served, then serve with boiled-fried potatoes.",
+      "imagePath": "../assets/images/pork-stew.svg",
+      "url": "../assets/images/pork-stew.svg",
+      "userMessage": "Adam Nagy",
+      "id": 5
+    },
+    {
+      "title": "Bakony pork ribs",
+      "body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Cut the pork chop into thin slices, chop, turn into flour mixed with seasoning and fry both sides in hot oil until red. Once baked, let's get it out in a pot. In the remaining oil we roast the smoked bacon cut into small cubes, then drizzle the chopped onion. Add the cleaned and sliced mushrooms. Season with salt and pepper and simmer. Mix the cream and sour cream with mustard, lemon juice, salt and pepper, then pour over the mushrooms and bring to a boil. At serving, the sauce is poured over the roast meat. Serve with steamed rice.",
+      "imagePath": "../assets/images/bakony-pork-ribs.svg",
+      "url": "../assets/images/bakony-pork-ribs.svg",
+      "userMessage": "Adam Nagy",
+      "id": 6
+    },
+    {
+      "title": "Brasso tiny roast",
+      "body": "I write how to make it, and it can also be found in the recipe book part of the dishes. Cut the meat and potatoes into 1 x 1 cm cubes. The fat bacon cut into small cubes is toasted until it loses fat, and then roasted together with the smoked bacon cut into small cubes. Add the diced meat and roast all at once, then salt, pepper and add the chopped garlic and ground red pepper. Stir and then pour over approx. Season the meat with 2 dl water and cover until soft. Meanwhile, fry the potato cubes lightly red in a generous amount of hot oil and place on a napkin. When serving, place the roasted potato cubes next to the roasted ready-made meat, then garnish with a delicious cucumber.",
+      "imagePath": "../assets/images/brasso-tiny-roast.svg",
+      "url": "../assets/images/brasso-tiny-roast.svg",
+      "userMessage": "Adam Nagy",
+      "id": 7
+    },
+    {
+      "title": "Gypsteak roast",
+      "body": "I write how to make it. Trim the slices, whisk the tendons and the edges in a few places, then salt and roll in oil soaked in chopped garlic. Leave the slices for about 10 minutes , then roll in the ground pepper and the red pepper seasoned flour. We cut 4-5 slices of smoked bacon and cut them in 3-4 places. Fry the bacon slices in a pan and set aside. In the remaining fat, fry the slices of red to a beautiful red. We dip the top of the fried bacon slices in ground red pepper and place on the fried tenderloin, then serve with parsley potatoes as a side dish.",
+      "imagePath": "../assets/images/gypsteak-roast.svg",
+      "url": "../assets/images/gypsteak-roast.svg",
+      "userMessage": "Adam Nagy",
+      "id": 8
+    }
+  ]
+  "recipes_de": [
+    {
+      "name": "Bakony-Schweinerippchen",
+      "description": "Das Schweinekotelett in dünne Scheiben schneiden, hacken, in Mehl mit Gewürzen wenden und in heißem Öl von beiden Seiten rot anbraten. Sobald es gebacken ist, geben wir es in einen Topf. Im restlichen Öl rösten wir den in kleine Würfel geschnittenen Räucherspeck und beträufeln ihn dann mit der gehackten Zwiebel. Die geputzten und in Scheiben geschnittenen Champignons dazugeben. Mit Salz und Pfeffer würzen und köcheln lassen. Sahne und Sauerrahm mit Senf, Zitronensaft, Salz und Pfeffer verrühren, dann über die Pilze gießen und zum Kochen bringen. Beim Servieren wird die Soße über das gebratene Fleisch gegossen. Mit gedünstetem Reis servieren.",
+      "imagePath": "../assets/images/bakony-pork-ribs.svg",
+      "id": 1
+    },
+    {
+      "name": "Kleiner Brasso-Braten",
+      "description": "Fleisch und Kartoffeln in 1 x 1 cm große Würfel schneiden. Der in kleine Würfel geschnittene Fettspeck wird geröstet, bis er Fett verliert, und dann zusammen mit dem in kleine Würfel geschnittenen Räucherspeck geröstet. Fügen Sie das gewürfelte Fleisch hinzu und braten Sie alles auf einmal an, dann salzen und pfeffern Sie und fügen Sie den gehackten Knoblauch und den gemahlenen roten Pfeffer hinzu. Umrühren und anschließend ca. Das Fleisch mit 2 dl Wasser würzen und zugedeckt weich werden lassen. In der Zwischenzeit die Kartoffelwürfel in reichlich heißem Öl leicht rot anbraten und auf eine Serviette legen. Beim Servieren die gerösteten Kartoffelwürfel neben das gebratene Fertigfleisch legen und mit einer leckeren Gurke garnieren.",
+      "imagePath": "../assets/images/brasso-tiny-roast.svg",
+      "id": 2
+    },
+    {
+      "name": "Hühnerpaprika mit Pilzen",
+      "description": "Die Hälfte des Hähnchens wird gereinigt und zerkleinert. Paprika und Tomaten würfeln und die Zwiebel hacken. Die Pilze werden gereinigt, gründlich gewaschen und anschließend in Scheiben geschnitten. Auf das Fett die Zwiebel träufeln, den Knoblauch dazugeben, dann vom Herd schälen, dann den gemahlenen Pfeffer und den gemahlenen roten Pfeffer dazugeben, umrühren und wieder auf den Herd stellen. Die riskanten Paprikaschoten, Tomaten und geschnittenen Pilze zum Eintopf geben, einige Minuten kochen lassen und dann das gehackte Hähnchen hinzufügen. Dämpfen Sie die Schlachtkörper und das Rohmaterial zu gedämpftem Dampf und ersetzen Sie den verdampften Saft durch Wasser. Das Mehl mit der sauren Sahne glatt rühren und dann mit dem weich gedünsteten Hähnchenfleisch bedecken. Unter ständigem Rühren langsam zum Kochen bringen. In der Zwischenzeit bei Bedarf abschmecken, mit Salz abschmecken und etwas Sahne hinzufügen und aufkochen lassen. Mit Knödeln servieren.",
+      "imagePath": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "id": 3
+    },
+    {
+      "name": "Knoblauchbratenkotelett",
+      "description": "Die Lendenscheiben leicht hacken und die Kanten an den Rändern abschneiden, damit sie beim Braten nicht schief laufen. Öl, geriebenen Knoblauch, Salz und gemahlenen Pfeffer einrühren und die Schweinekoteletts gründlich einfetten. Mindestens gut 10 Minuten ruhen lassen, dann etwas Öl in einer Bratpfanne erhitzen und die Lendenscheiben von beiden Seiten einige Minuten anbraten. Mit Backkartoffeln servieren.",
+      "imagePath": "../assets/images/garlic-roast-chop.svg",
+      "id": 4
+    }
+  ],
+  "posts_de": [
+    {
+      "title": "Hühnerpaprika mit Pilzen",
+      "body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Die Hälfte des Hähnchens wird gereinigt und zerkleinert. Paprika und Tomaten würfeln und die Zwiebel hacken. Die Pilze werden gereinigt, gründlich gewaschen und anschließend in Scheiben geschnitten. Auf das Fett die Zwiebel träufeln, den Knoblauch dazugeben, dann vom Herd schälen, dann den gemahlenen Pfeffer und den gemahlenen roten Pfeffer dazugeben, umrühren und wieder auf den Herd stellen. Die riskanten Paprikaschoten, Tomaten und geschnittenen Pilze zum Eintopf geben, einige Minuten kochen lassen und dann das gehackte Hähnchen hinzufügen. Dämpfen Sie die Schlachtkörper und das Rohmaterial zu gedämpftem Dampf und ersetzen Sie den verdampften Saft durch Wasser. Das Mehl mit der sauren Sahne glatt rühren und dann mit dem weich gedünsteten Hähnchenfleisch bedecken. Unter ständigem Rühren langsam zum Kochen bringen. In der Zwischenzeit bei Bedarf abschmecken, mit Salz abschmecken und etwas Sahne hinzufügen und aufkochen lassen. Mit Knödeln servieren.",
+      "imagePath": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "url": "../assets/images/chicken-pepper-with-mushrooms.svg",
+      "userMessage": "Adam Nagy",
+      "id": 1
+    },
+    {
+      "title": "Knoblauchbratenkotelett",
+      "body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Die Lendenscheiben leicht hacken und die Kanten an den Rändern abschneiden, damit sie beim Braten nicht schief laufen. Öl, geriebenen Knoblauch, Salz und gemahlenen Pfeffer einrühren und die Schweinekoteletts gründlich einfetten. Mindestens gut 10 Minuten ruhen lassen, dann etwas Öl in einer Bratpfanne erhitzen und die Lendenscheiben von beiden Seiten einige Minuten anbraten. Mit Backkartoffeln servieren.",
+      "imagePath": "../assets/images/garlic-roast-chop.svg",
+      "url": "../assets/images/garlic-roast-chop.svg",
+      "userMessage": "Adam Nagy",
+      "id": 2
+    },
+    {
+      "title": "Auflaufnudeln",
+      "body": "Ich schreibe, wie man es macht. Paris in 1 cm große Würfel schneiden. Eine kleine Zwiebel leicht hacken und mit Öl beträufeln, dann die in Würfel geschnittenen Zwiebeln dazugeben. Würfelteig wird leicht gesalzen, mit ein paar Tropfen Öl versetzt und dann gefiltert. Die gerösteten Pariser Würfel mit dem gekochten Teig vermischen, dann das Backöl mit Öl bestreichen und die Mischung dazugeben. 3 Eier verquirlen und gründlich verrühren. Den gemischten Eiern werden gemahlene Erbsen, Delikatesse und Sauerrahm hinzugefügt. Das scharf gewürzte Ei mit der Mischung in der Pfanne vermischen und den Käse darauf legen, dann in den Ofen schieben und etwa 1 Stunde backen.",
+      "imagePath": "../assets/images/casserole-pasta.svg",
+      "url": "../assets/images/casserole-pasta.svg",
+      "userMessage": "Adam Nagy",
+      "id": 3
+    },
+    {
+      "title": "Geröstetes Sauerkraut mit Rippchen",
+      "body": "Ich schreibe, wie man es macht. Rippchen vom Vortag mit Salz, Pfeffer, geriebenem Knoblauch und gehackten Zwiebeln würzen. Sauerkraut wird zweimal gewaschen, dann gehackt und dann auf einem Backblech eingefettet. Legen Sie den Kohl auf das Backblech, passen Sie die Rippen an und legen Sie die Folie darauf. Während des Bratens wird der Kohl manchmal gedreht, und wenn eine Hälfte der Scheiben gar ist, wenden Sie ihn. Zum Schluss die gebratenen Rippchen auf einen Teller legen, dann den Kohl ohne Folie im Ofen braten und dann mit dem Fleisch servieren.",
+      "imagePath": "../assets/images/roasted-sauerkraut-with-ribs.svg",
+      "url": "../assets/images/roasted-sauerkraut-with-ribs.svg",
+      "userMessage": "Adam Nagy",
+      "id": 4
+    },
+    {
+      "title": "Eintopf mit Schweinefleisch",
+      "body": "Ich schreibe, wie man es macht. Wir braten die gehackte Zwiebel in etwas Fett an und fügen das gewürfelte Fleisch hinzu. Salz und Knoblauch hinzufügen und im eigenen Saft anbraten. Nach dem Frittieren mit Paprika bestreuen und mit etwas Wasser aufgießen, bis das Fleisch vollständig bedeckt ist. Dabei häufig umrühren und gelegentlich das verdunstete Wasser unter den Deckel streuen. Wenn die Pfefferfarbe auf der Oberfläche des Schweineeintopfs dick ist, beschweren wir ihn, weil er appetitlich ist. Wenn das Fleisch weicher wird, fügen wir auch gehackte grüne Paprika hinzu. Bei schwacher Hitze köcheln lassen, bis es gar ist. Bis zum Servieren abdecken und warm halten, dann mit Salzkartoffeln servieren.
+",
+      "imagePath": "../assets/images/pork-stew.svg",
+      "url": "../assets/images/pork-stew.svg",
+      "userMessage": "Adam Nagy",
+      "id": 5
+    },
+    {
+      "title": "Bakony pork ribs",
+      "body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Das Schweinekotelett in dünne Scheiben schneiden, hacken, in Mehl mit Gewürzen wenden und in heißem Öl von beiden Seiten rot anbraten. Sobald es gebacken ist, geben wir es in einen Topf. Im restlichen Öl rösten wir den in kleine Würfel geschnittenen Räucherspeck und beträufeln ihn dann mit der gehackten Zwiebel. Die geputzten und in Scheiben geschnittenen Champignons dazugeben. Mit Salz und Pfeffer würzen und köcheln lassen. Sahne und Sauerrahm mit Senf, Zitronensaft, Salz und Pfeffer verrühren, dann über die Pilze gießen und zum Kochen bringen. Beim Servieren wird die Soße über das gebratene Fleisch gegossen. Mit gedünstetem Reis servieren.",
+      "imagePath": "../assets/images/bakony-pork-ribs.svg",
+      "url": "../assets/images/bakony-pork-ribs.svg",
+      "userMessage": "Adam Nagy",
+      "id": 6
+    },
+    {
+      "title": "Brasso tiny roast",
+      "body": "Ich schreibe, wie man es macht, und es ist auch im Rezeptbuchteil der Gerichte zu finden. Fleisch und Kartoffeln in 1 x 1 cm große Würfel schneiden. Der in kleine Würfel geschnittene Fettspeck wird geröstet, bis er Fett verliert, und dann zusammen mit dem in kleine Würfel geschnittenen Räucherspeck geröstet. Fügen Sie das gewürfelte Fleisch hinzu und braten Sie alles auf einmal an, dann salzen und pfeffern Sie und fügen Sie den gehackten Knoblauch und den gemahlenen roten Pfeffer hinzu. Umrühren und anschließend ca. Das Fleisch mit 2 dl Wasser würzen und zugedeckt weich werden lassen. In der Zwischenzeit die Kartoffelwürfel in reichlich heißem Öl leicht rot anbraten und auf eine Serviette legen. Beim Servieren die gerösteten Kartoffelwürfel neben das gebratene Fertigfleisch legen und mit einer leckeren Gurke garnieren.",
+      "imagePath": "../assets/images/brasso-tiny-roast.svg",
+      "url": "../assets/images/brasso-tiny-roast.svg",
+      "userMessage": "Adam Nagy",
+      "id": 7
+    },
+    {
+      "title": "Gypsteak roast",
+      "body": "Ich schreibe, wie man es macht. Schneiden Sie die Scheiben ab, verquirlen Sie die Sehnen und die Ränder an einigen Stellen, salzen Sie sie und wälzen Sie sie in mit gehacktem Knoblauch getränktem Öl. Lassen Sie die Scheiben etwa 10 Minuten lang stehen und wälzen Sie sie dann in der gemahlenen Paprika und dem mit roten Paprika gewürzten Mehl. Wir schneiden 4-5 Scheiben geräucherten Speck und schneiden sie an 3-4 Stellen ein. Die Speckscheiben in einer Pfanne anbraten und beiseite stellen. Im restlichen Fett die roten Scheiben schön rot anbraten. Wir tauchen die Oberseite der gebratenen Speckscheiben in gemahlenen roten Pfeffer und legen sie auf das gebratene Filet. Anschließend servieren wir sie mit Petersilienkartoffeln als Beilage.",
+      "imagePath": "../assets/images/gypsteak-roast.svg",
+      "url": "../assets/images/gypsteak-roast.svg",
+      "userMessage": "Adam Nagy",
+      "id": 8
+    }
+  ]
 }
